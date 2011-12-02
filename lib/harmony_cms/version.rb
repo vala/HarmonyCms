@@ -1,0 +1,3 @@
+module HarmonyCms
+  VERSION = "0.0.1"
+end
